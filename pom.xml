@@ -58,6 +58,7 @@
                             <goal>check</goal>
                         </goals>
                     </execution>
+
                 </executions>
                 <configuration>
                     <rules>
